@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Chat-Room-with-Firebase/static/css/main.f990b947.css",
+    "main.js": "/React-Chat-Room-with-Firebase/static/js/main.fb29bfe9.js",
+    "static/js/787.edc1225d.chunk.js": "/React-Chat-Room-with-Firebase/static/js/787.edc1225d.chunk.js",
+    "index.html": "/React-Chat-Room-with-Firebase/index.html",
+    "main.f990b947.css.map": "/React-Chat-Room-with-Firebase/static/css/main.f990b947.css.map",
+    "main.fb29bfe9.js.map": "/React-Chat-Room-with-Firebase/static/js/main.fb29bfe9.js.map",
+    "787.edc1225d.chunk.js.map": "/React-Chat-Room-with-Firebase/static/js/787.edc1225d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f990b947.css",
+    "static/js/main.fb29bfe9.js"
+  ]
+}
